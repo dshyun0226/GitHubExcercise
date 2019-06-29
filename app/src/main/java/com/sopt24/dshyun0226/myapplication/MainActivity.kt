@@ -28,5 +28,7 @@ class MainActivity : AppCompatActivity() {
         val xeonmin = "xeonmin"
 
         val hong = "I'm homgjiwon"
+
+
     }
 }
