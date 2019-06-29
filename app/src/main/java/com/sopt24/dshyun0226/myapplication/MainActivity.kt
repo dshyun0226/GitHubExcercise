@@ -1,21 +1,13 @@
 package com.sopt24.dshyun0226.myapplication
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val sample = "Hello, Android"
-
-
-
-        val godJoy = "sogogi masidda"
-
-        val sample = "Hello, Android "
-
 
 
         val sample1 = "Hello, Android"
@@ -24,6 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         val JahyunKim = "Sorry,,,"
         val Cheongha = "I love SOPT!!"
+
+        val sample = "Hello, Android "
         val moohyeon = "hello"
         val story = "i love android"
         val SuminJeon = "I love SOPT24 Android Part!!"
