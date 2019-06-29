@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val godJoy = "sogogi masidda"
+
+        val sample = "Hello, Android "
+        val story = "i love android"
+
     }
 }
