@@ -24,5 +24,7 @@ class MainActivity : AppCompatActivity() {
         val LeeYouJeong = "I Love SOPT happy happy sopt yeah"
 
         val xeonmin = "xeonmin"
+
+        val Sungeun = "I love OPEN SOPT 24th Android Part"
     }
 }
