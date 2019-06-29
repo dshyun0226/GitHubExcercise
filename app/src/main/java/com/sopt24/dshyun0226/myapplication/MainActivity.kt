@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        val sample = "Hello, Android"
 
 
 
@@ -30,8 +31,9 @@ class MainActivity : AppCompatActivity() {
         val DongHyunSon = "Hello, Android!"
         val LeeYouJeong = "I Love SOPT happy happy sopt yeah"
         val hello = "hi hello"
+        val yoonhee = "hello"
         val chominjeong = "my name is stella"
 
         val xeonmin = "xeonmin"
-    }
+	}
 }
