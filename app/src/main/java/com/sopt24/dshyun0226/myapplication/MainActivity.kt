@@ -26,5 +26,6 @@ class MainActivity : AppCompatActivity() {
         val chominjeong = "my name is stella"
 
         val xeonmin = "xeonmin"
+        val jeongeum = "yamyam fighting~~!!"
     }
 }
