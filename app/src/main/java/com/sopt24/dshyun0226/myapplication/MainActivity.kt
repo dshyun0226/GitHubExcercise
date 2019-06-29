@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         
         val sample1 = "Hello, Android"
+        val sample = "Hello, Android"
+        val JahyunKim = "Sorry,,,"
     }
 }
