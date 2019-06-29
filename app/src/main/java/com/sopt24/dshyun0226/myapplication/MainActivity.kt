@@ -12,5 +12,9 @@ class MainActivity : AppCompatActivity() {
         val sample1 = "Hello, Android"
 
         val Cheongha = "I love SOPT!!"
+
+        val sample = "Hello, Android "
+        val story = "i love android"
+
     }
 }
