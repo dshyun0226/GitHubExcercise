@@ -14,10 +14,9 @@ class MainActivity : AppCompatActivity() {
 
         val sohee : String = "Git study!!"
 
-
+        val JahyunKim = "Sorry,,,"
         val Cheongha = "I love SOPT!!"
         val moohyeon = "hello"
-        val sample = "Hello, Android "
         val story = "i love android"
 
         val DongHyunSon = "Hello, Android!"
@@ -28,6 +27,13 @@ class MainActivity : AppCompatActivity() {
 
         val eunbin="i love spot and android ~~~ android is the beeeeeeeeessst "
 
+
+        val yoonhee = "hello"
+        val chominjeong = "my name is stella"
+
         val xeonmin = "xeonmin"
+
+
+
     }
 }
