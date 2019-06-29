@@ -1,7 +1,7 @@
 package com.sopt24.dshyun0226.myapplication
 
-import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 
