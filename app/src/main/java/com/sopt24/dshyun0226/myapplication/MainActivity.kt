@@ -20,14 +20,23 @@ class MainActivity : AppCompatActivity() {
         val sample = "Hello, Android "
         val moohyeon = "hello"
         val story = "i love android"
+        val SuminJeon = "I love SOPT24 Android Part!!"
 
         val DongHyunSon = "Hello, Android!"
         val LeeYouJeong = "I Love SOPT happy happy sopt yeah"
         val hello = "hi hello"
+
+
+
+        val eunbin="i love spot and android ~~~ android is the beeeeeeeeessst "
+
+
         val yoonhee = "hello"
         val chominjeong = "my name is stella"
 
         val xeonmin = "xeonmin"
+
+        val Sungeun = "I love OPEN SOPT 24th Android Part"
 
 
 
