@@ -1,7 +1,7 @@
 package com.sopt24.dshyun0226.myapplication
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
         val sample = "Hello, Android "
         val moohyeon = "hello"
         val story = "i love android"
+
+        val Eunee = "android"
         val SuminJeon = "I love SOPT24 Android Part!!"
 
         val DongHyunSon = "Hello, Android!"
