@@ -39,5 +39,6 @@ class MainActivity : AppCompatActivity() {
         val Sungeun = "I love OPEN SOPT 24th Android Part"
 
         val Hee = "I love OPEN S.O.P.T 24th Android Part Forever!! :]"
+        val cheongha = "hi"
     }
 }
