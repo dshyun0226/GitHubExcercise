@@ -40,5 +40,10 @@ class MainActivity : AppCompatActivity() {
 
         val Hee = "I love OPEN S.O.P.T 24th Android Part Forever!! :]"
         val cheongha = "hi"
+
+
+
+        val JiyunPark = "I love OPEN S.O.P.T 24th Android Part Forever!! :]"
+        val jeongeum = "yamyam fighting~~!!"
     }
 }
