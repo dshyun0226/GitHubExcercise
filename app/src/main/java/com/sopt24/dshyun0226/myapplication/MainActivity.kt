@@ -11,6 +11,13 @@ class MainActivity : AppCompatActivity() {
         val sample = "Hello, Android"
 
 
+
+        val godJoy = "sogogi masidda"
+
+        val sample = "Hello, Android "
+
+
+
         val sample1 = "Hello, Android"
 
         val sohee : String = "Git study!!"
