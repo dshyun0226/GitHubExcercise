@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
+        val Cheongha = "I love SOPT!!"
         val sample = "Hello, Android "
         val story = "i love android"
         val JahyunKim = "i am androig King"
