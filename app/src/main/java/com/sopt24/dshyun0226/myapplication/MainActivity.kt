@@ -12,6 +12,12 @@ class MainActivity : AppCompatActivity() {
         val godJoy = "sogogi masidda"
 
         val sample = "Hello, Android "
+
+        val sample1 = "Hello, Android"
+        val sample = "Hello, Android"
+        val JahyunKim = "Sorry,,,"
+
+        val Cheongha = "I love SOPT!!"
         val story = "i love android"
 
     }
