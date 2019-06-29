@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val sample = "Hello, Android"
-
+        val sample = "Hello, Android "
+        val story = "i love android"
         val LeeYouJeong = "I Love SOPT happy happy sopt yeah"
     }
 }
