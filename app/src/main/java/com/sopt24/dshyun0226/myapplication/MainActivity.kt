@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val JiyunPark = "I love OPEN S.O.P.T 24th Android Part Forever!! :]"
     }
 }
