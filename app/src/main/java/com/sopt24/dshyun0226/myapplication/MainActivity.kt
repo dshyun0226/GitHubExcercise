@@ -20,7 +20,10 @@ class MainActivity : AppCompatActivity() {
         val moohyeon = "hello"
         val sample = "Hello, Android "
         val story = "i love android"
+
+        val DongHyunSon = "Hello, Android!"
         val LeeYouJeong = "I Love SOPT happy happy sopt yeah"
+        val hello = "hi hello"
     }
     val yoonhee = "hello"
 }
