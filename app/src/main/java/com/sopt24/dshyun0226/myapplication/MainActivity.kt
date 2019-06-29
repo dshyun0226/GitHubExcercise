@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val SungeunChun = "I love OPEN SOPT 24th Android Part"
+        val Sungeun = "I love OPEN SOPT 24th Android Part"
     }
 }
